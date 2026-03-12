@@ -28,3 +28,8 @@ Herramientas: Python, Scikit-learn, Matplotlib, Seaborn
 Reporte interactivo de 3 páginas sobre ventas 2015-2017 (1,85M en ventas, 250K de ganancia). Incluye modelado de datos con 5 tablas relacionadas, KPIs financieros, evolución mensual de ventas, análisis geográfico por región y estado, top clientes y balance de rendimiento por equipo de vendedores.
 Técnicas: Modelado de datos relacional, DAX, visualización interactiva, análisis geográfico
 Herramientas: Power BI
+
+🌍 Dashboard de ventas globales — Looker Studio
+Reporte interactivo de 3 páginas sobre ventas internacionales (1.289M en ventas, 5M unidades, margen promedio 29,64%). Incluye análisis geográfico mundial, rentabilidad por producto, distribución de clientes por edad, top proveedores con saldo pendiente y evolución temporal de ventas 2020-2022.
+Técnicas: KPIs financieros, análisis geográfico global, segmentación de clientes, rentabilidad por categoría
+Herramientas: Looker Studio
