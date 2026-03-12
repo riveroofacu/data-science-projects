@@ -23,3 +23,8 @@ Herramientas: Python, Scikit-learn, Seaborn, Matplotlib
 Clasificación de especies de flores con VotingClassifier combinando tres modelos base, logrando un accuracy de 96.67%. Complementado con clustering K-Means y reducción de dimensionalidad con PCA.
 Técnicas: Ensemble (VotingClassifier), K-Means, PCA
 Herramientas: Python, Scikit-learn, Matplotlib, Seaborn
+
+📈 Dashboard de ventas corporativas — Power BI
+Reporte interactivo de 3 páginas sobre ventas 2015-2017 (1,85M en ventas, 250K de ganancia). Incluye modelado de datos con 5 tablas relacionadas, KPIs financieros, evolución mensual de ventas, análisis geográfico por región y estado, top clientes y balance de rendimiento por equipo de vendedores.
+Técnicas: Modelado de datos relacional, DAX, visualización interactiva, análisis geográfico
+Herramientas: Power BI
